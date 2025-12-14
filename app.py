@@ -4,7 +4,7 @@ import plotly.express as px
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(
-    page_title="Coca-Cola Sales Dashboard",
+    page_title="Beverages Sales Dashboard",
     layout="wide"
 )
 
