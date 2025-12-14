@@ -26,7 +26,7 @@ else:
     filtered_df = df[df["Region"] == region]
 
 # ---------------- TITLE ----------------
-st.title("🥤 Coca-Cola Sales Analytics Dashboard")
+st.title("🥤 Beverages Analytics Dashboard")
 st.caption("Interactive Business Intelligence Website (Streamlit)")
 st.markdown("---")
 
